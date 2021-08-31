@@ -7,7 +7,7 @@ Features:
 - Autenticação e autorização
 
 [![tecnologias](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/AshileySabah/blogCakePHP2)
-[![tecnologias](https://img.shields.io/badge/CakePHP-777BB4?style=for-the-badge&logo=cakephp&logoColor=white)](https://github.com/AshileySabah/blogCakePHP2)
+[![tecnologias](https://img.shields.io/badge/CakePHP-D33C44?style=for-the-badge&logo=cakephp&logoColor=white)](https://github.com/AshileySabah/blogCakePHP2)
 [![tecnologias](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AshileySabah/blogCakePHP2)
 [![tecnologias](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/AshileySabah/blogCakePHP2)
 [![tecnologias](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/AshileySabah/blogCakePHP2)
